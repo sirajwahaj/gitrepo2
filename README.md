@@ -1,1 +1,3 @@
-#My DevOps skill \n - Git \n - Go
+#My DevOps skill
+- Git
+- Go
