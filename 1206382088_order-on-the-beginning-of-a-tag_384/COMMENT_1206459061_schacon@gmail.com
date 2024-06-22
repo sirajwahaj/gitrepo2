@@ -1,1 +1,0 @@
-        this could also be implemented as tag classes, where you have 'priority:1' as the tag, but the system will not allow more than one 'priority:X' tag - sort of like a custom field - that would make sorting them easier, too.

@@ -1,1 +1,0 @@
-ti attach [tid] [file]

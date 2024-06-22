@@ -1,1 +1,7 @@
+
 simplegit-progit/
+
+bin/*.log
+pkg
+coverage
+ticgit*gem
